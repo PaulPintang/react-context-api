@@ -1,4 +1,3 @@
-import "./App.css";
 import Addtocart from "./components/Addtocart";
 import Cart from "./components/Cart";
 
